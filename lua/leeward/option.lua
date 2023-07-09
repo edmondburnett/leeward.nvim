@@ -4,7 +4,7 @@ local M = {}
 local DEFAULT_OPTIONS = {
     -- will add more them in future
     theme = "leeward",
-    background = "light",
+    background = "dark",
 }
 
 M.options = DEFAULT_OPTIONS
