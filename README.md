@@ -2,6 +2,8 @@
 
 Dark blue-ish theme inspired by a custom combination of several other colorschemes. WIP.
 
+<img width="2209" alt="dark" src="https://user-images.githubusercontent.com/4172061/190657325-be88e26f-907a-434d-a5f1-af7634e335ed.png">
+
 ## Features
 
 - [nvim-treesiter](https://github.com/nvim-treesitter/nvim-treesitter), *WIP*
@@ -51,7 +53,3 @@ use({
     end,
 })
 ```
-
-## Preview
-
-<img width="2209" alt="dark" src="https://user-images.githubusercontent.com/4172061/190657325-be88e26f-907a-434d-a5f1-af7634e335ed.png">
