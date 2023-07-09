@@ -1,6 +1,9 @@
 # Leeward colorscheme for Neovim
 
-Dark blue-ish theme inspired by a custom combination of several other colorschemes. WIP.
+Dark blue-ish theme inspired by a custom combination of several other colorschemes. 
+
+Orignally forked from an earlier version of [zanglg/nova.nvim](https://github.com/zanglg/nova.nvim) before it broke my setup and was moved away from a bluer
+theme. 
 
 <img width="2209" alt="dark" src="https://user-images.githubusercontent.com/4172061/190657325-be88e26f-907a-434d-a5f1-af7634e335ed.png">
 
