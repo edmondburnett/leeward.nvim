@@ -8,8 +8,8 @@ M.get = function()
         Comment        = { fg = colors.inconspicuous },
 
         Constant       = { fg = colors.yellow },
-        String         = { fg = colors.green },
-        Character      = { fg = colors.green },
+        String         = { fg = colors.cyan },
+        Character      = { fg = colors.cyan },
         Number         = { fg = colors.yellow },
         Boolean        = { fg = colors.yellow },
         Float          = { fg = colors.yellow },
