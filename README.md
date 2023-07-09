@@ -1,6 +1,6 @@
 # Leeward colorscheme for Neovim
 
-Dark blue-ish theme inspired by a custom combination of several other colorschemes.
+Dark blue-ish theme inspired by a custom combination of several other colorschemes. WIP.
 
 ## Features
 
